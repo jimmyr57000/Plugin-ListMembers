@@ -1,0 +1,1 @@
+{"name":"ListMembers","author":"EmpireDev","version":"1.2.8","apiID":24,"admin_menus":{"GLOBAL__ADMIN_OTHER_TITLE":{"ListMembers":{"index":1,"icon":"users","menu":{"Gérer les informations":{"icon":"cog","route":"/admin/list"}}}}},"navbar_routes":{"ListMembers":"/list"},"useEvents":false,"permissions":{"available":[],"default":{"0":[],"2":[]}},"requirements":{"CMS":"^1.2.0"}}
